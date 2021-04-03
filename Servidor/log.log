@@ -1,0 +1,10 @@
+[INFO] 18:15:34:735 Servidor/(15430:15430): Servidor listo para recibir al cliente
+[INFO] 19:03:11:153 Servidor/(18313:18313): Servidor listo para recibir al cliente
+[INFO] 19:07:46:560 Servidor/(18313:18313): Se conecto un cliente!
+[INFO] 19:07:46:561 Servidor/(18313:18313): Me llego el mensaje Hola, soy un valor
+[ERROR] 19:07:46:715 Servidor/(18313:18313): el cliente se desconecto. Terminando servidor
+[INFO] 19:09:11:597 Servidor/(18731:18731): Servidor listo para recibir al cliente
+[INFO] 19:09:24:419 Servidor/(18731:18731): Se conecto un cliente!
+[INFO] 19:09:24:420 Servidor/(18731:18731): Me llego el mensaje Hola, soy un valor
+[ERROR] 19:09:24:560 Servidor/(18731:18731): el cliente se desconecto. Terminando servidor
+[INFO] 19:09:44:295 Servidor/(18789:18789): Servidor listo para recibir al cliente
